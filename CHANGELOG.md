@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.19.2](https://www.github.com/mikecuoco/snakemake-wrappers/compare/v1.19.1...v1.19.2) (2022-11-12)
+
+
+### Bug Fixes
+
+* Removed unnecessary openjdk references ([#835](https://www.github.com/mikecuoco/snakemake-wrappers/issues/835)) ([0353285](https://www.github.com/mikecuoco/snakemake-wrappers/commit/035328563254b7c5e1dc9ac0be8faedee066855e))
+
 ### [1.19.1](https://www.github.com/snakemake/snakemake-wrappers/compare/v1.19.0...v1.19.1) (2022-11-11)
 
 
